@@ -1,0 +1,48 @@
+WEB:
+Browser -> HTML, CSS e Javascript
+Arquitetura Cliente Servidor
+Vscode: Folder (Pasta), File (Arquivo)
+Tags: html, p, head, body, h*(1,2,...,6)
+
+Comentários
+Anatomia das Tags
+Atributos
+Atributos Globais
+Alinhamento Hierarquia
+Caracteres Reservados
+Anatomia Documento
+
+
+Estrutura básica (Tag: html, head, title, body) - OK
+Abertura e fechamento de Tags (Elemento HTML, texto) - OK
+Tags vazias (img, input) - OK
+Tags recebem texto ou outras tags - OK
+Títulos h(*) - OK
+Parágrafos p - OK
+Comentários <!-- --> - OK
+Negrito (b), sublinhado (u) e itálico (i) - OK
+"Enter" forçado (br) - OK
+Caractere especial (&nbsp;) - OK
+Caracteres reservados (&,<,>) - OK
+Instalar Plungin de preview HTML - OK
+Atributos (com valor, booleano) - OK
+Recomendação de aspas duplas "" - OK
+Tags sem sintaxe (span, div) - OK
+Listas (Ordenada - ul,li e não ordenada - ol, li) - OK
+Tipos de listas não ordenadas (type="") - OK
+Links (Páginas html e web) - OK
+Tabelas (table, caption, tr, th, td) - OK
+Colocar imagens - OK
+Formulários (input, button, fieldset, legend) - OK
+--------------------------------------------------------------------------------------
+Adicionar CSS (atributo "style", tag "style", arquivos style) - OK
+Valores Hexadecimal - OK
+Alterando texto (font-family, color, font-size, line-height) - OK
+background-color - OK
+Aplicação em Tag
+Aplicação em Id e Classes
+Seletor universal
+Fontes Google
+Padding e Margin
+Border-style
+Flexbox

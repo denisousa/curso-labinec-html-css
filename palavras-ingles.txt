@@ -1,0 +1,17 @@
+File - Arquivo
+Folder - Pasta        
+New - Novo
+Source (src) - Fonte 
+Save - Salvar
+Title - Título
+Settings - Configuração
+Preferences - Preferencias
+All - Tudo
+Font - Fonte (Letras)
+Background - Plano de Fundo
+Color - Cor
+Border - Borda
+Style - Estilo
+Head - Cabeça
+Body - Corpo
+Size - Tamanho
