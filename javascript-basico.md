@@ -7,7 +7,6 @@
     * Comando `console.log`
 
 - [] Como eu consigo salvar dados do usuário?
-    * Tipagem dinâmica e estática
     * Declaração de variáveis (var, let e const)
     * Tipos primitivos de variáveis (String, Number, Boolean)
     * Variáveis 'null' ou 'undefined'

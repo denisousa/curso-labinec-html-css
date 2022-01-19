@@ -1,18 +1,4 @@
-WEB:
-Browser -> HTML, CSS e Javascript
-Arquitetura Cliente Servidor
-Vscode: Folder (Pasta), File (Arquivo)
-Tags: html, p, head, body, h*(1,2,...,6)
-
-Comentários
-Anatomia das Tags
-Atributos
-Atributos Globais
-Alinhamento Hierarquia
-Caracteres Reservados
-Anatomia Documento
-
-
+HTML5
 Estrutura básica (Tag: html, head, title, body) - OK
 Abertura e fechamento de Tags (Elemento HTML, texto) - OK
 Tags vazias (img, input) - OK
@@ -35,14 +21,39 @@ Tabelas (table, caption, tr, th, td) - OK
 Colocar imagens - OK
 Formulários (input, button, fieldset, legend) - OK
 --------------------------------------------------------------------------------------
+
+CSS3
 Adicionar CSS (atributo "style", tag "style", arquivos style) - OK
 Valores Hexadecimal - OK
 Alterando texto (font-family, color, font-size, line-height) - OK
 background-color - OK
-Aplicação em Tag
+Aplicação em Tag - OK
 Aplicação em Id e Classes
 Seletor universal
 Fontes Google
 Padding e Margin
 Border-style
 Flexbox
+--------------------------------------------------------------------------------------
+
+CMD
+dir
+cd 
+mkdir 
+rmdir
+echo 
+more 
+cls 
+del 
+ren
+copy
+code - 
+
+--------------------------------------------------------------------------------------
+
+GIT / GITHUB
+git status
+
+--------------------------------------------------------------------------------------
+
+Javascript
