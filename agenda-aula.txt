@@ -53,7 +53,14 @@ code -
 
 GIT / GITHUB
 git status
+git add .
+git add <nome do arquivo>
+git add <nome do arquivo> <nome do arquivo> <nome do arquivo>
+git commit
+git commit -m "<nome da foto>"
+git push origin main
 
 --------------------------------------------------------------------------------------
 
 Javascript
+
