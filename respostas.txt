@@ -1,0 +1,65 @@
+01. 
+A variável é um espaço de memória da computador.
+É a forma em que nos programadores conseguimos armazenar dados na maquina.
+Exemplo:
+var idade = 23
+
+02.
+São palavras reservadas pela linguagem para indicar algum conceito/processo de programação.
+Exemplos:
+var -> Criação de varíavel
+for, do while, while -> Indicam uma operação de repetição (loop)
+if, else -> Indicam uma operação de condição
+function -> Criação de uma função
+return -> Indica que a função retornará um valor
+${} -> Indica o uso de template string
+
+03.
+É uma cadeia de caracteres que representam as palavras da lingua portueguesa.
+É o tipo de dado para representação de um texto.
+Representamos uma String com ",',`
+Diferença de Caractere x String:
+console.log("a") - Caractere
+console.log("ana") - String
+
+var nome1 = yan - Errado
+var nome2 = "vanessa" - Correto
+
+04.
+Template String é a forma que conseguimos utilizar variáveis dentro de uma String
+Exemplo:
+var nome = "Denis"
+var sobronome = "Menezes"
+var frase1 = "O meu nome é " + nome + " " + sobrenome
+var frase2 = `O meu nome é ${nome} ${sobrenome}`
+console.log(frase1)
+console.log(frase2)
+
+05.
+Operadores Aritméticos: +,-,*,/,%
+Operadores Relacionais: == (igual),!= (difernte), >, >=, <, <=
+Operadores Lógicos: &&, ||, !
+
+06.
+As estruturas de decisão, são formas em que conseguimos alterar o fluxo do código.
+É a forma em que conseguimos colocar condições dentro do nosso código.
+Exemplo:
+// Identifica se o número é impar
+var soma = 5 + 7
+if(soma % 2 != 0){
+    console.log(`a variável ${soma} é impar`)
+}
+else {
+    console.log(`a variável ${soma} é par`)    
+}
+
+Observação:
+Como o obter o resto da divisão?
+var num1 = 5 % 2 -> 1
+var num2 = 100 % 2 -> 0
+var num3 = 7 % 3 -> 1
+
+07.
+São estruturas que utilizamos para realizar um determinado processo repetida vezes.
+As principais estruturas são: for, while e do while.
+

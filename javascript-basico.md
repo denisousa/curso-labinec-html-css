@@ -1,13 +1,13 @@
 # Comandos/Conceitos básicos para aprender Javascript
 
-- [] Como eu consigo receber dados do usuário?
+- [x] Como eu consigo receber dados do usuário?
     * Comando `prompt`
 
-- [] Como eu consigo mostrar dados ao usuário?
+- [x] Como eu consigo mostrar dados ao usuário?
     * Comando `console.log`
 
 - [] Como eu consigo salvar dados do usuário?
-    * Declaração de variáveis (var, let e const)
+    * Declaração de variáveis (var e const)
     * Tipos primitivos de variáveis (String, Number, Boolean)
     * Variáveis 'null' ou 'undefined'
     * Comando "typeof"

@@ -47,7 +47,7 @@ cls
 del 
 ren
 copy
-code - 
+code
 
 --------------------------------------------------------------------------------------
 
@@ -63,4 +63,33 @@ git push origin main
 --------------------------------------------------------------------------------------
 
 Javascript
+Linguagem de Programação
 
+- O javascript ele pode ser executado em dois locais: Browser (Google Chorme), Terminal (CMD) -> Node.JS
+
+- O Javascript ele possui funções próprias.
+Função é a execução de um conjunto de passos.
+<nome_qualquer>(<parametros>)
+
+Exemplo: prompt() e console.log()
+
+- O Javascript permite criar variáveis.
+Variável é uma forma de armazenar dados na memória do computador.
+var <nome_quealquer> = <tipo_de_dado>
+
+Exemplo:
+var idade_vanessa = 18 // Integer
+var carro = "BMW" // String
+var peco = 80.12 // Float
+var condicao = true // Boolean
+
+obs1: var é uma palavra reservada, para criar variáveis!
+
+- Concatenação: É o processo de juntar uma variável em uma String
+"É um prazer te conhecer " + <nome_da_variavel>
+
+Exemplo:
+console.log(`O resultado da soma entre ${x} + ${y} = ${soma}`)
+
+obs1: ${} é palavra reservada, para concatenar variáveis
+obs2: Só funciona com String usando `

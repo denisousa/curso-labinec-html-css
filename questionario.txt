@@ -1,0 +1,5 @@
+Quais são as palavras reservadas que aprendemos em sala de aula?
+
+Quais são os operadores aritméticos?
+
+Conceitos: Palavra reservada, operadores aritméticos, funções, variável

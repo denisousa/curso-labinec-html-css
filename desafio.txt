@@ -1,0 +1,9 @@
+Algoritmo:
+1. Recebam um número qualquer do usuário
+2. Mostrem o antecessor do número
+3. Sucessor do número
+
+Exemplo:
+"Digte um número qualquer: "
+"O sucesso de 7 é o número 8"
+"O antecessor de 7 é o número 6"
