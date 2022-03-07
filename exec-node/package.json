@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "d3-random": "^3.0.1",
+    "make-random": "^3.0.0",
+    "prompt-sync": "^4.2.0"
+  }
 }
