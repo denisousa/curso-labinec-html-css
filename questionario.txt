@@ -1,5 +1,3 @@
-Quais são as palavras reservadas que aprendemos em sala de aula?
-
-Quais são os operadores aritméticos?
-
-Conceitos: Palavra reservada, operadores aritméticos, funções, variável
+1. O que é um gerenciador de pacotes?
+2. O que é o npm?
+3. O que é DOM?

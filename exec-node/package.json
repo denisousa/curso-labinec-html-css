@@ -12,6 +12,8 @@
   "dependencies": {
     "d3-random": "^3.0.1",
     "make-random": "^3.0.0",
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.1.6",
+    "random-int": "^3.0.0",
+    "random-number": "^0.0.9"
   }
 }

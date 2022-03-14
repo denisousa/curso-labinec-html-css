@@ -1,0 +1,18 @@
+
+/* Referência as Classes */
+.cabecalho {
+        color: green;
+        font-size: 100px;
+}
+
+.texto {
+        color: blue;
+        font-size: 80px;
+}
+
+/* Referência a ID */
+#titulo {
+        color: orange;
+        font-size: 120px;
+        background-color: black;
+}
